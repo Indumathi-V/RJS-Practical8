@@ -21,7 +21,7 @@ The three recipes to be displayed are:
 1. Chicken Noodles Soup
 2. Curried Egg Salad
 3. Oat Cluster
-
+## Please check the output.png file attached for the final output to be look alike.
 ## Learning Outcome
 
 After completing this practical, students will be able to:
